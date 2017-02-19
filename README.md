@@ -1,2 +1,2 @@
-# sirius735.gihub.io
+# sirius735.github.io
 Sedona
